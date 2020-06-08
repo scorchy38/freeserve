@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:freeserve/DrawerPages/MyReservations.dart';
 import 'package:freeserve/Classes/Restros.dart';
 import 'package:freeserve/main.dart';
-
 import 'Details/Details.dart';
 
 class HomePage extends StatefulWidget {
