@@ -8,8 +8,24 @@ Once Person A can see the Home Screen, There are a few options for the Person A,
 3. Edit/Update Reservation Screen: Screen where the user is able to make changes to a reservation made.
 4. Delete Reservation Screen: Screen where the user can be able to delete the Reservation made.(Also should be deleted in the firebase)
 
-## Framework/Language
+# Devices
 
-DART/FLUTTER
+App is working on both Android and iOS devices.
 
-![screenshot](https://github.com/AppScreenshots/Simulator Screen Shot - iPhone 11 Pro - 2020-06-09 at 03.50.42.png)
+# Technologies Used
+
+Frontend - FLUTTER
+Backend - FIREBASE
+
+# App Screenshots
+
+App Screenshots are available in AppScreenshots folder.
+
+# Details
+
+All the features that were asked have been implemented and are perfectly working, Owners' console for this app can also be easily developed using almost same algorithms.
+
+# Prototype lik
+
+I always prefer to make a prototype before start working on the app. So for this app too this was designed on Figma by me.
+https://www.figma.com/proto/BtAvF85rvSviV8pH1rDeQw/Freeserve?scaling=min-zoom&node-id=11%3A52
