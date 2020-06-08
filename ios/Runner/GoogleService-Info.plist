@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>852797887942-er0vfpt0cs1hkqb0mb7q9isistsf8mjs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.852797887942-er0vfpt0cs1hkqb0mb7q9isistsf8mjs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfgW8zodZaAnJckPbhHZoe5R4QJPJZX6M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>852797887942</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shubh.freeserve</string>
+	<key>PROJECT_ID</key>
+	<string>freeserve-466d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>freeserve-466d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:852797887942:ios:6719c4fc96b846bacecec7</string>
+	<key>DATABASE_URL</key>
+	<string>https://freeserve-466d9.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852797887942",
+    "firebase_url": "https://freeserve-466d9.firebaseio.com",
+    "project_id": "freeserve-466d9",
+    "storage_bucket": "freeserve-466d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852797887942:android:ca41468ba01da856cecec7",
+        "android_client_info": {
+          "package_name": "com.shubh.freeserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852797887942-vn6fc2k8k3put4q16fg73ml25b6bbcb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoiDSNiTfpUmtuJZRohSXHKwlTMFUojos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852797887942-vn6fc2k8k3put4q16fg73ml25b6bbcb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852797887942-er0vfpt0cs1hkqb0mb7q9isistsf8mjs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shubh.freeserve"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
